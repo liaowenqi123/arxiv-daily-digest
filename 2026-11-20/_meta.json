@@ -1,0 +1,39 @@
+[
+ {
+  "id": "2611.26584",
+  "title": "Represented but misread: Post-training changes how language models read out what they represent",
+  "authors": [
+   "Jochen Laubrock"
+  ],
+  "published": "2026-11-19T18:43:56Z",
+  "pdf": "daily_digest\\2026-11-20\\pdf\\2611.26584_Represented_but_misread_Post-training_changes_how_langu.pdf",
+  "txt": "daily_digest\\2026-11-20\\_txt\\2611.26584.txt"
+ },
+ {
+  "id": "2611.26351",
+  "title": "TRCF: Temporal-Reference Complementary Forecasting for Irregular Multivariate Time Series",
+  "authors": [
+   "Xudong Zuo",
+   "Shusen Ma",
+   "Qirui Chen",
+   "Bing Fan",
+   "Yun-Bo Zhao"
+  ],
+  "published": "2026-11-19T16:24:00Z",
+  "pdf": "daily_digest\\2026-11-20\\pdf\\2611.26351_TRCF_Temporal-Reference_Complementary_Forecasting_for_I.pdf",
+  "txt": "daily_digest\\2026-11-20\\_txt\\2611.26351.txt"
+ },
+ {
+  "id": "2611.25650",
+  "title": "Extending Rademacher Complexity-Based Generalization Theory to Domain Generalization",
+  "authors": [
+   "Xi Wang",
+   "Liang Bai",
+   "Xian Yang",
+   "Richard Yi Da Xu"
+  ],
+  "published": "2026-11-19T07:32:29Z",
+  "pdf": "daily_digest\\2026-11-20\\pdf\\2611.25650_Extending_Rademacher_Complexity-Based_Generalization_Th.pdf",
+  "txt": "daily_digest\\2026-11-20\\_txt\\2611.25650.txt"
+ }
+]
