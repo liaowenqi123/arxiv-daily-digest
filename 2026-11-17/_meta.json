@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2611.18239",
+  "title": "Neural Classifiers as Error-Correcting Codes",
+  "authors": [
+   "Sergey Salishev",
+   "Anton Makarov",
+   "Oleg Granichin",
+   "Renata Avros",
+   "Zeev Volkovich"
+  ],
+  "published": "2026-11-13T14:34:23Z",
+  "pdf": "daily_digest\\2026-11-17\\pdf\\2611.18239_Neural_Classifiers_as_Error-Correcting_Codes.pdf",
+  "txt": "daily_digest\\2026-11-17\\_txt\\2611.18239.txt"
+ },
+ {
+  "id": "2611.18089",
+  "title": "Deep Latents, Long Memory: Latent persistence explains temporal correlations in transformer activations",
+  "authors": [
+   "Francesco Cagnetta",
+   "Santiago Acevedo"
+  ],
+  "published": "2026-11-13T12:14:17Z",
+  "pdf": "daily_digest\\2026-11-17\\pdf\\2611.18089_Deep_Latents_Long_Memory_Latent_persistence_explains_te.pdf",
+  "txt": "daily_digest\\2026-11-17\\_txt\\2611.18089.txt"
+ },
+ {
+  "id": "2611.17915",
+  "title": "SWIFT: Sample-Wise Instance Fine-Tuning of Time-Series Foundation Models for Forecasting",
+  "authors": [
+   "Yang Chen",
+   "Feifan Tian",
+   "Cong Wang",
+   "Cheng Feng",
+   "Wenbin Li",
+   "Yang Gao"
+  ],
+  "published": "2026-11-13T08:56:51Z",
+  "pdf": "daily_digest\\2026-11-17\\pdf\\2611.17915_SWIFT_Sample-Wise_Instance_Fine-Tuning_of_Time-Series_F.pdf",
+  "txt": "daily_digest\\2026-11-17\\_txt\\2611.17915.txt"
+ }
+]

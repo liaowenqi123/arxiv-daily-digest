@@ -1,0 +1,36 @@
+[
+ {
+  "id": "2610.06666",
+  "title": "What Matters for Latent Reasoning with Flow Matching",
+  "authors": [
+   "Yassine Ouali",
+   "Adrian Bulat",
+   "Georgios Tzimiropoulos"
+  ],
+  "published": "2026-10-05T16:42:40Z",
+  "pdf": "daily_digest\\2026-10-31\\pdf\\2610.06666_What_Matters_for_Latent_Reasoning_with_Flow_Matching.pdf",
+  "txt": "daily_digest\\2026-10-31\\_txt\\2610.06666.txt"
+ },
+ {
+  "id": "2610.40188",
+  "title": "Understanding axial attention in TSFMs through single location regression",
+  "authors": [
+   "Andrei-Tiberiu Pantea",
+   "Aymeric Dieuleveut"
+  ],
+  "published": "2026-10-29T14:46:50Z",
+  "pdf": "daily_digest\\2026-10-31\\pdf\\2610.40188_Understanding_axial_attention_in_TSFMs_through_single_l.pdf",
+  "txt": "daily_digest\\2026-10-31\\_txt\\2610.40188.txt"
+ },
+ {
+  "id": "2610.39731",
+  "title": "Going deep, reaching further: What can Boltzmann machines efficiently represent?",
+  "authors": [
+   "Tobias Reinhart",
+   "Gemma De les Coves"
+  ],
+  "published": "2026-10-29T09:58:28Z",
+  "pdf": "daily_digest\\2026-10-31\\pdf\\2610.39731_Going_deep_reaching_further_What_can_Boltzmann_machines.pdf",
+  "txt": "daily_digest\\2026-10-31\\_txt\\2610.39731.txt"
+ }
+]

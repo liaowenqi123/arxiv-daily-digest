@@ -1,0 +1,43 @@
+[
+ {
+  "id": "2611.12852",
+  "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+  "authors": [
+   "Tianze Luo",
+   "Haofeng Huang",
+   "Yuan Yao"
+  ],
+  "published": "2026-11-09T18:44:37Z",
+  "pdf": "daily_digest\\2026-11-11\\pdf\\2611.12852_What_kills_v-prediction_A_Patch-wise_PCA_Perspective_on.pdf",
+  "txt": "daily_digest\\2026-11-11\\_txt\\2611.12852.txt"
+ },
+ {
+  "id": "2611.12156",
+  "title": "The balance between feature learning and collapse in dynamical systems-based generative models",
+  "authors": [
+   "Julian Brandon",
+   "Bruno Loureiro",
+   "N Alex Cayco-Gajic",
+   "Arthur Pellegrino"
+  ],
+  "published": "2026-11-09T10:05:19Z",
+  "pdf": "daily_digest\\2026-11-11\\pdf\\2611.12156_The_balance_between_feature_learning_and_collapse_in_dy.pdf",
+  "txt": "daily_digest\\2026-11-11\\_txt\\2611.12156.txt"
+ },
+ {
+  "id": "2611.12696",
+  "title": "Generalized Adaptive Boosting and the Geometry of Mistakes",
+  "authors": [
+   "Marco Bressan",
+   "Nataly Brukhim",
+   "Nicolò Cesa-Bianchi",
+   "Emmanuel Esposito",
+   "Yishay Mansour",
+   "Shay Moran",
+   "Maximilian Thiessen"
+  ],
+  "published": "2026-11-09T16:56:19Z",
+  "pdf": "daily_digest\\2026-11-11\\pdf\\2611.12696_Generalized_Adaptive_Boosting_and_the_Geometry_of_Mista.pdf",
+  "txt": "daily_digest\\2026-11-11\\_txt\\2611.12696.txt"
+ }
+]

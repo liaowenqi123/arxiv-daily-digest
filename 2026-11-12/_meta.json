@@ -1,0 +1,43 @@
+[
+ {
+  "id": "2611.13572",
+  "title": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
+  "authors": [
+   "Yuqi Wang",
+   "Fengyuan Liu",
+   "Mukai Li",
+   "Haochen Luo",
+   "Lei Li",
+   "Qi Liu"
+  ],
+  "published": "2026-11-10T04:40:04Z",
+  "pdf": "daily_digest\\2026-11-12\\pdf\\2611.13572_Market-Conditioned_JEPA_Learning_from_Unpredictable_Mar.pdf",
+  "txt": "daily_digest\\2026-11-12\\_txt\\2611.13572.txt"
+ },
+ {
+  "id": "2611.14425",
+  "title": "Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications",
+  "authors": [
+   "Sourish Gunesh Dhekane",
+   "Abinaya Kumar",
+   "Torsten Woertwein",
+   "Yan-Bo Lin",
+   "Thomas Ploetz",
+   "Shabnam Ghaffarzadegan"
+  ],
+  "published": "2026-11-10T18:01:23Z",
+  "pdf": "daily_digest\\2026-11-12\\pdf\\2611.14425_Quantifying_the_Sampling_Frequency_Invariance_of_Time-S.pdf",
+  "txt": "daily_digest\\2026-11-12\\_txt\\2611.14425.txt"
+ },
+ {
+  "id": "2611.14463",
+  "title": "A Theory of Cross-Validation Variance",
+  "authors": [
+   "Nathaniel S. O'Connell",
+   "Jaime L. Speiser"
+  ],
+  "published": "2026-11-10T18:29:42Z",
+  "pdf": "daily_digest\\2026-11-12\\pdf\\2611.14463_A_Theory_of_Cross-Validation_Variance.pdf",
+  "txt": "daily_digest\\2026-11-12\\_txt\\2611.14463.txt"
+ }
+]

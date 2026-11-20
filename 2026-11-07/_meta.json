@@ -1,0 +1,50 @@
+[
+ {
+  "id": "2611.07952",
+  "title": "Invariance before structure: two modes of emergent compression in representation learning",
+  "authors": [
+   "Hardik Rajpal",
+   "Dan Goodman"
+  ],
+  "published": "2026-11-05T12:49:05Z",
+  "pdf": "daily_digest\\2026-11-07\\pdf\\2611.07952_Invariance_before_structure_two_modes_of_emergent_compr.pdf",
+  "txt": "daily_digest\\2026-11-07\\_txt\\2611.07952.txt"
+ },
+ {
+  "id": "2611.08160",
+  "title": "Patch Attention Wisely: Understanding Patch Length in Attention-Based Forecasting",
+  "authors": [
+   "Junyu Chen",
+   "Likai Chen",
+   "Weining Wang"
+  ],
+  "published": "2026-11-05T15:18:11Z",
+  "pdf": "daily_digest\\2026-11-07\\pdf\\2611.08160_Patch_Attention_Wisely_Understanding_Patch_Length_in_At.pdf",
+  "txt": "daily_digest\\2026-11-07\\_txt\\2611.08160.txt"
+ },
+ {
+  "id": "2611.07478",
+  "title": "Localization Does Not Imply Steerability: A Mechanistic Study of Sign Errors in LLM Mathematics",
+  "authors": [
+   "Shradha Agarwal",
+   "Tariq J.",
+   "Deepak Rajbhar"
+  ],
+  "published": "2026-11-05T05:36:28Z",
+  "pdf": "daily_digest\\2026-11-07\\pdf\\2611.07478_Localization_Does_Not_Imply_Steerability_A_Mechanistic.pdf",
+  "txt": "daily_digest\\2026-11-07\\_txt\\2611.07478.txt"
+ },
+ {
+  "id": "2611.08417",
+  "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+  "authors": [
+   "E. Kelly Buchanan",
+   "Crystal Zhou",
+   "Scott W. Linderman",
+   "Christopher Ré"
+  ],
+  "published": "2026-11-05T18:18:39Z",
+  "pdf": "daily_digest\\2026-11-07\\pdf\\2611.08417_Benchmarks_as_Software_Terminal-Bench_and_the_Case_for.pdf",
+  "txt": "daily_digest\\2026-11-07\\_txt\\2611.08417.txt"
+ }
+]

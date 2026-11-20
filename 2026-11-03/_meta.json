@@ -1,0 +1,40 @@
+[
+ {
+  "id": "2610.41038",
+  "title": "When can Optimally Trained Transformers Achieve Near-Lossless Token Prediction for non-Markovian Data?",
+  "authors": [
+   "Kağan Akman",
+   "Jake Feldman Starosta",
+   "Naci Saldi",
+   "Serdar Yüksel"
+  ],
+  "published": "2026-10-29T22:29:59Z",
+  "pdf": "daily_digest\\2026-11-03\\pdf\\2610.41038_When_can_Optimally_Trained_Transformers_Achieve_Near-Lo.pdf",
+  "txt": "daily_digest\\2026-11-03\\_txt\\2610.41038.txt"
+ },
+ {
+  "id": "2610.41648",
+  "title": "On the Generation Order in GFlowNets",
+  "authors": [
+   "Timofei Gritsaev",
+   "Evgeny Katasonov",
+   "Ildus Sadrtdinov",
+   "Esmeralda S. Whitammer",
+   "Dmitry Vetrov"
+  ],
+  "published": "2026-10-30T12:21:43Z",
+  "pdf": "daily_digest\\2026-11-03\\pdf\\2610.41648_On_the_Generation_Order_in_GFlowNets.pdf",
+  "txt": "daily_digest\\2026-11-03\\_txt\\2610.41648.txt"
+ },
+ {
+  "id": "2610.41074",
+  "title": "Where, When, and How Many Bits? Scaling Laws for SGD with Stochastic Rounding",
+  "authors": [
+   "Zhichao Wang",
+   "Michael W. Mahoney"
+  ],
+  "published": "2026-10-29T23:42:46Z",
+  "pdf": "daily_digest\\2026-11-03\\pdf\\2610.41074_Where_When_and_How_Many_Bits_Scaling_Laws_for_SGD_with.pdf",
+  "txt": "daily_digest\\2026-11-03\\_txt\\2610.41074.txt"
+ }
+]

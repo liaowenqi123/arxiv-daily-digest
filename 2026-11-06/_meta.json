@@ -1,0 +1,41 @@
+[
+ {
+  "id": "2611.06108",
+  "title": "Learning When to Think Aloud in Latent Reasoning",
+  "authors": [
+   "Zhehao Zhou",
+   "Tongrui Su",
+   "Shengyu Zhu",
+   "Da Li",
+   "Zeyu Liu",
+   "Jun Zhu",
+   "Xueqi Cheng"
+  ],
+  "published": "2026-11-04T07:51:36Z",
+  "pdf": "daily_digest\\2026-11-06\\pdf\\2611.06108_Learning_When_to_Think_Aloud_in_Latent_Reasoning.pdf",
+  "txt": "daily_digest\\2026-11-06\\_txt\\2611.06108.txt"
+ },
+ {
+  "id": "2611.06438",
+  "title": "Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs",
+  "authors": [
+   "Nuo-Jing Liang",
+   "Xiao-Tong Yuan",
+   "Pan Zhou"
+  ],
+  "published": "2026-11-04T12:38:45Z",
+  "pdf": "daily_digest\\2026-11-06\\pdf\\2611.06438_Understanding_the_Out-of-Distribution_Generalization_of.pdf",
+  "txt": "daily_digest\\2026-11-06\\_txt\\2611.06438.txt"
+ },
+ {
+  "id": "2611.05842",
+  "title": "PEARL: Prediction Error-Adaptive Regularized Learning for Selective Forgetting under Partial Preference Drift",
+  "authors": [
+   "Rashmi Gangadharaiah",
+   "Balakrishnan Narayanaswamy"
+  ],
+  "published": "2026-11-04T02:31:49Z",
+  "pdf": "daily_digest\\2026-11-06\\pdf\\2611.05842_PEARL_Prediction_Error-Adaptive_Regularized_Learning_fo.pdf",
+  "txt": "daily_digest\\2026-11-06\\_txt\\2611.05842.txt"
+ }
+]

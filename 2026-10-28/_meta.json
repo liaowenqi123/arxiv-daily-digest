@@ -1,0 +1,39 @@
+[
+ {
+  "id": "2610.35020",
+  "title": "Attention under Bounded Key-Query Similarity: Space Complexity and Transformer Anisotropy",
+  "authors": [
+   "Justin Y. Chen",
+   "Ying Feng",
+   "Piotr Indyk",
+   "Michael Kapralov",
+   "Ekaterina Kochetkova",
+   "Boris Prokhorov"
+  ],
+  "published": "2026-10-26T08:31:43Z",
+  "pdf": "daily_digest\\2026-10-28\\pdf\\2610.35020_Attention_under_Bounded_Key-Query_Similarity_Space_Comp.pdf",
+  "txt": "daily_digest\\2026-10-28\\_txt\\2610.35020.txt"
+ },
+ {
+  "id": "2610.35785",
+  "title": "A theory of noisy linear recurrent neural network learning dynamics",
+  "authors": [
+   "John J. Vastola",
+   "Kanaka Rajan"
+  ],
+  "published": "2026-10-26T17:25:19Z",
+  "pdf": "daily_digest\\2026-10-28\\pdf\\2610.35785_A_theory_of_noisy_linear_recurrent_neural_network_learn.pdf",
+  "txt": "daily_digest\\2026-10-28\\_txt\\2610.35785.txt"
+ },
+ {
+  "id": "2610.34801",
+  "title": "When Does Data Value Reduce to Class Balance? A Coverage View of Per-Point Data Valuation",
+  "authors": [
+   "Yingjie Bai",
+   "Weiming Zhi"
+  ],
+  "published": "2026-10-26T03:42:03Z",
+  "pdf": "daily_digest\\2026-10-28\\pdf\\2610.34801_When_Does_Data_Value_Reduce_to_Class_Balance_A_Coverage.pdf",
+  "txt": "daily_digest\\2026-10-28\\_txt\\2610.34801.txt"
+ }
+]

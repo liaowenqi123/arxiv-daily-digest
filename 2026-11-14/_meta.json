@@ -1,0 +1,48 @@
+[
+ {
+  "id": "2611.16265",
+  "title": "Rectified Looped Transformer",
+  "authors": [
+   "Musheng Li",
+   "Jiawei Zhang",
+   "Ziyuan Liu",
+   "Yuantao Gu"
+  ],
+  "published": "2026-11-12T04:07:40Z",
+  "pdf": "daily_digest\\2026-11-14\\pdf\\2611.16265_Rectified_Looped_Transformer.pdf",
+  "txt": "daily_digest\\2026-11-14\\_txt\\2611.16265.txt"
+ },
+ {
+  "id": "2611.16384",
+  "title": "Beyond Compressing Everything: Contrastive Memory Learning for Selective Context Compression",
+  "authors": [
+   "Sikui Zhang",
+   "Haowei Liu",
+   "Ziyun Gan",
+   "Chunfeng Yuan",
+   "Guangze Gao",
+   "Nian Liu",
+   "Boyu Cai",
+   "Bo Li",
+   "Xiaolei Lv",
+   "Jun Gao",
+   "Bing Li",
+   "Weiming Hu"
+  ],
+  "published": "2026-11-12T06:51:49Z",
+  "pdf": "daily_digest\\2026-11-14\\pdf\\2611.16384_Beyond_Compressing_Everything_Contrastive_Memory_Learni.pdf",
+  "txt": "daily_digest\\2026-11-14\\_txt\\2611.16384.txt"
+ },
+ {
+  "id": "2611.15989",
+  "title": "What Roles Do System Prompts Really Assign? Validating and Steering Occupational Role Vectors in LLMs",
+  "authors": [
+   "Jose L. Sampedro Mazon",
+   "Ilmi Yoon",
+   "Nadim Saad"
+  ],
+  "published": "2026-11-11T20:43:45Z",
+  "pdf": "daily_digest\\2026-11-14\\pdf\\2611.15989_What_Roles_Do_System_Prompts_Really_Assign_Validating_a.pdf",
+  "txt": "daily_digest\\2026-11-14\\_txt\\2611.15989.txt"
+ }
+]

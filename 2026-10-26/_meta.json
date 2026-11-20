@@ -1,0 +1,54 @@
+[
+ {
+  "id": "2607.07085",
+  "title": "Is Randomness Necessary for Adaptive Data Analysis?",
+  "authors": [
+   "Edith Cohen",
+   "Haim Kaplan",
+   "Yishay Mansour",
+   "Shay Sapir",
+   "Uri Stemmer"
+  ],
+  "published": "2026-07-08T07:17:35Z",
+  "pdf": "daily_digest\\2026-10-26\\pdf\\2607.07085_Is_Randomness_Necessary_for_Adaptive_Data_Analysis.pdf",
+  "txt": "daily_digest\\2026-10-26\\_txt\\2607.07085.txt"
+ },
+ {
+  "id": "2610.20014",
+  "title": "On the Convergence of Semi-Gradient TD: A Mean Field Perspective",
+  "authors": [
+   "Haruki Settai",
+   "Tadashi Kozuno",
+   "Shinji Ito"
+  ],
+  "published": "2026-10-14T11:26:19Z",
+  "pdf": "daily_digest\\2026-10-26\\pdf\\2610.20014_On_the_Convergence_of_Semi-Gradient_TD_A_Mean_Field_Per.pdf",
+  "txt": "daily_digest\\2026-10-26\\_txt\\2610.20014.txt"
+ },
+ {
+  "id": "2610.21414",
+  "title": "Learning to Forecast on Multiple Spatiotemporal Hierarchies",
+  "authors": [
+   "Valentina Moretti",
+   "Cesare Alippi",
+   "Andrea Cini"
+  ],
+  "published": "2026-10-15T07:29:32Z",
+  "pdf": "daily_digest\\2026-10-26\\pdf\\2610.21414_Learning_to_Forecast_on_Multiple_Spatiotemporal_Hierarc.pdf",
+  "txt": "daily_digest\\2026-10-26\\_txt\\2610.21414.txt"
+ },
+ {
+  "id": "2610.18863",
+  "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+  "authors": [
+   "Dennis Grinwald",
+   "Ankur Singha",
+   "Khaled Kahouli",
+   "Karl Jansen",
+   "Shinichi Nakajima"
+  ],
+  "published": "2026-10-13T17:59:33Z",
+  "pdf": "daily_digest\\2026-10-26\\pdf\\2610.18863_Data_Free_Training_of_Diffusion_Models_for_Lattice_Fiel.pdf",
+  "txt": "daily_digest\\2026-10-26\\_txt\\2610.18863.txt"
+ }
+]

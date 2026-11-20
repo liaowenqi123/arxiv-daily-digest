@@ -1,0 +1,41 @@
+[
+ {
+  "id": "2607.02671",
+  "title": "Benign Overfitting Does Not Occur in Diffusion Models",
+  "authors": [
+   "Tyler Farghly",
+   "Benjamin Dupuis",
+   "Alain Durmus",
+   "Umut Simsekli"
+  ],
+  "published": "2026-07-02T18:05:23Z",
+  "pdf": "daily_digest\\2026-10-25\\pdf\\2607.02671_Benign_Overfitting_Does_Not_Occur_in_Diffusion_Models.pdf",
+  "txt": "daily_digest\\2026-10-25\\_txt\\2607.02671.txt"
+ },
+ {
+  "id": "2609.22197",
+  "title": "Dissecting Hierarchical Reasoning Models: A Mechanistic Study",
+  "authors": [
+   "Leo Raphael Rodrigues",
+   "Jian Kang"
+  ],
+  "published": "2026-08-30T09:19:52Z",
+  "pdf": "daily_digest\\2026-10-25\\pdf\\2609.22197_Dissecting_Hierarchical_Reasoning_Models_A_Mechanistic.pdf",
+  "txt": "daily_digest\\2026-10-25\\_txt\\2609.22197.txt"
+ },
+ {
+  "id": "2610.25621",
+  "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+  "authors": [
+   "William L. Tong",
+   "Aryo Lotfi",
+   "Emmanuel Abbe",
+   "Josh Susskind",
+   "Cengiz Pehlevan",
+   "Eran Malach"
+  ],
+  "published": "2026-10-19T00:49:08Z",
+  "pdf": "daily_digest\\2026-10-25\\pdf\\2610.25621_Weighted_State_Souping_for_Efficient_Long-Context_Retri.pdf",
+  "txt": "daily_digest\\2026-10-25\\_txt\\2610.25621.txt"
+ }
+]

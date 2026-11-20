@@ -1,0 +1,40 @@
+[
+ {
+  "id": "2610.32104",
+  "title": "Putting Transformer Theories to the Test",
+  "authors": [
+   "Awni Altabaa",
+   "Tobias Schnabel",
+   "Kiran Tomlinson"
+  ],
+  "published": "2026-10-23T03:07:37Z",
+  "pdf": "daily_digest\\2026-10-27\\pdf\\2610.32104_Putting_Transformer_Theories_to_the_Test.pdf",
+  "txt": "daily_digest\\2026-10-27\\_txt\\2610.32104.txt"
+ },
+ {
+  "id": "2609.33940",
+  "title": "Behavioral Monitoring of JEPA World Models with Jacobian Centroids",
+  "authors": [
+   "Thomas Walker",
+   "Randall Balestriero",
+   "Richard Baraniuk"
+  ],
+  "published": "2026-09-27T21:30:47Z",
+  "pdf": "daily_digest\\2026-10-27\\pdf\\2609.33940_Behavioral_Monitoring_of_JEPA_World_Models_with_Jacobia.pdf",
+  "txt": "daily_digest\\2026-10-27\\_txt\\2609.33940.txt"
+ },
+ {
+  "id": "2610.06805",
+  "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+  "authors": [
+   "Wancong Zhang",
+   "Basile Terver",
+   "Michael Rabbat",
+   "Yann LeCun",
+   "Randall Balestriero"
+  ],
+  "published": "2026-10-05T17:53:34Z",
+  "pdf": "daily_digest\\2026-10-27\\pdf\\2610.06805_H-JEPA_End-to-End_Learning_of_Hierarchical_World_Models.pdf",
+  "txt": "daily_digest\\2026-10-27\\_txt\\2610.06805.txt"
+ }
+]

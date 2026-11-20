@@ -1,0 +1,39 @@
+[
+ {
+  "id": "2611.02955",
+  "title": "Generative diffusion in long-range correlated landscapes: Speciation cascade and the foam structure of the score",
+  "authors": [
+   "Jerome Garnier-Brun",
+   "Giulio Biroli",
+   "Marc Mézard",
+   "Jean-Philippe Bouchaud"
+  ],
+  "published": "2026-11-02T11:22:51Z",
+  "pdf": "daily_digest\\2026-11-04\\pdf\\2611.02955_Generative_diffusion_in_long-range_correlated_landscape.pdf",
+  "txt": "daily_digest\\2026-11-04\\_txt\\2611.02955.txt"
+ },
+ {
+  "id": "2611.02866",
+  "title": "TensorLOB: Structure-Preserving Tensor Learning for Limit Order Book Forecasting",
+  "authors": [
+   "Yuxuan Gu",
+   "Danilo Mandic"
+  ],
+  "published": "2026-11-02T10:03:43Z",
+  "pdf": "daily_digest\\2026-11-04\\pdf\\2611.02866_TensorLOB_Structure-Preserving_Tensor_Learning_for_Limi.pdf",
+  "txt": "daily_digest\\2026-11-04\\_txt\\2611.02866.txt"
+ },
+ {
+  "id": "2611.03146",
+  "title": "Controlling Sharpening in LLM Post-Training",
+  "authors": [
+   "Simon Matrenok",
+   "Nicolas Menet",
+   "Nicolas Flammarion",
+   "Andreas Krause"
+  ],
+  "published": "2026-11-02T13:54:45Z",
+  "pdf": "daily_digest\\2026-11-04\\pdf\\2611.03146_Controlling_Sharpening_in_LLM_Post-Training.pdf",
+  "txt": "daily_digest\\2026-11-04\\_txt\\2611.03146.txt"
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "id": "2610.29385",
+  "title": "Parallelizable Probabilistic Latent Reasoning for Diverse Reasoning Trajectories",
+  "authors": [
+   "Seokhyun Lee",
+   "Seongjun Lee",
+   "Changhee Lee"
+  ],
+  "published": "2026-10-21T08:11:52Z",
+  "pdf": "daily_digest\\2026-11-02\\pdf\\2610.29385_Parallelizable_Probabilistic_Latent_Reasoning_for_Diver.pdf",
+  "txt": "daily_digest\\2026-11-02\\_txt\\2610.29385.txt"
+ },
+ {
+  "id": "2607.06648",
+  "title": "Final Checkpoints Are Not Enough: Analyzing Latent Reasoning Faithfulness Along Training Trajectories",
+  "authors": [
+   "Hengyu Jin",
+   "Shu Yang",
+   "Di Wang"
+  ],
+  "published": "2026-07-07T16:09:44Z",
+  "pdf": "daily_digest\\2026-11-02\\pdf\\2607.06648_Final_Checkpoints_Are_Not_Enough_Analyzing_Latent_Reaso.pdf",
+  "txt": "daily_digest\\2026-11-02\\_txt\\2607.06648.txt"
+ },
+ {
+  "id": "2610.12437",
+  "title": "Density Ratio Estimation with Stein Displacement Fields",
+  "authors": [
+   "Song Liu"
+  ],
+  "published": "2026-10-08T17:57:33Z",
+  "pdf": "daily_digest\\2026-11-02\\pdf\\2610.12437_Density_Ratio_Estimation_with_Stein_Displacement_Fields.pdf",
+  "txt": "daily_digest\\2026-11-02\\_txt\\2610.12437.txt"
+ }
+]

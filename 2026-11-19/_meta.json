@@ -1,0 +1,35 @@
+[
+ {
+  "id": "2611.24032",
+  "title": "Test-Time Symmetrization: Scaling Laws for Model-Agnostic Learning under Structure",
+  "authors": [
+   "Behrooz Tahmasebi",
+   "Melanie Weber"
+  ],
+  "published": "2026-11-18T08:20:34Z",
+  "pdf": "daily_digest\\2026-11-19\\pdf\\2611.24032_Test-Time_Symmetrization_Scaling_Laws_for_Model-Agnosti.pdf",
+  "txt": "daily_digest\\2026-11-19\\_txt\\2611.24032.txt"
+ },
+ {
+  "id": "2611.24781",
+  "title": "Reconstruction vs. Prediction Pre-Training of Discrete Video Representations for Continuous Control",
+  "authors": [
+   "Ron Kosova",
+   "Francesco Croce"
+  ],
+  "published": "2026-11-18T17:25:58Z",
+  "pdf": "daily_digest\\2026-11-19\\pdf\\2611.24781_Reconstruction_vs_Prediction_Pre-Training_of_Discrete_V.pdf",
+  "txt": "daily_digest\\2026-11-19\\_txt\\2611.24781.txt"
+ },
+ {
+  "id": "2611.24394",
+  "title": "Temporal Rank in Recurrent Neural Networks",
+  "authors": [
+   "Leo Dobson",
+   "Anton Ragni"
+  ],
+  "published": "2026-11-18T13:28:07Z",
+  "pdf": "daily_digest\\2026-11-19\\pdf\\2611.24394_Temporal_Rank_in_Recurrent_Neural_Networks.pdf",
+  "txt": "daily_digest\\2026-11-19\\_txt\\2611.24394.txt"
+ }
+]

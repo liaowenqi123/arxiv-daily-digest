@@ -1,0 +1,46 @@
+[
+ {
+  "id": "2611.08421",
+  "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+  "authors": [
+   "Ilker Gurcan",
+   "Kadir Ustun",
+   "Ramazan Gokberk Cinbis"
+  ],
+  "published": "2026-11-05T18:19:28Z",
+  "pdf": "daily_digest\\2026-11-09\\pdf\\2611.08421_Data-driven_discovery_of_intrinsic_Lie_point_symmetries.pdf",
+  "txt": "daily_digest\\2026-11-09\\_txt\\2611.08421.txt"
+ },
+ {
+  "id": "2611.07891",
+  "title": "When Bigger Becomes Brittle: Why Compression Hurts More as Language Models Scale",
+  "authors": [
+   "Gautam Gupta",
+   "Dikshant Kukreja",
+   "Unique Kumar",
+   "Avni Mittal",
+   "Deepanshu Dabas",
+   "Kshitij Sah",
+   "Erik Cambria",
+   "Rajiv Ratn Shah",
+   "Zhengkui Wang",
+   "Avinash Anand"
+  ],
+  "published": "2026-11-05T12:11:13Z",
+  "pdf": "daily_digest\\2026-11-09\\pdf\\2611.07891_When_Bigger_Becomes_Brittle_Why_Compression_Hurts_More.pdf",
+  "txt": "daily_digest\\2026-11-09\\_txt\\2611.07891.txt"
+ },
+ {
+  "id": "2611.07473",
+  "title": "Echoes of Error: Residual-Directional Local Rollout Consistency for Timeseries Forecasting",
+  "authors": [
+   "Zheng Wang",
+   "Kaixuan Zhang",
+   "Xiaonan Lu",
+   "Wanfang Chen"
+  ],
+  "published": "2026-11-05T05:32:13Z",
+  "pdf": "daily_digest\\2026-11-09\\pdf\\2611.07473_Echoes_of_Error_Residual-Directional_Local_Rollout_Cons.pdf",
+  "txt": "daily_digest\\2026-11-09\\_txt\\2611.07473.txt"
+ }
+]

@@ -1,0 +1,10 @@
+# 二进制附件不入库：论文 PDF 与抽取的纯文本都由脚本按需重新下载
+**/pdf/
+**/_txt/
+*.pdf
+*.txt
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,43 @@
+[
+ {
+  "id": "2611.09217",
+  "title": "Provable State Estimation with Recurrent Models",
+  "authors": [
+   "Vincent Andrieu",
+   "Pauline Bernard",
+   "Lucas Brivadis",
+   "Laurent Praly",
+   "Christian Wolf"
+  ],
+  "published": "2026-11-06T09:35:12Z",
+  "pdf": "daily_digest\\2026-11-10\\pdf\\2611.09217_Provable_State_Estimation_with_Recurrent_Models.pdf",
+  "txt": "daily_digest\\2026-11-10\\_txt\\2611.09217.txt"
+ },
+ {
+  "id": "2611.09412",
+  "title": "MIRA: Mitigating Pole Geometry Bias in Recurrent Language Models",
+  "authors": [
+   "Róisín Luo",
+   "Ihsan Ullah",
+   "Christian Gagné",
+   "Dong Li",
+   "Karyn Morrissey"
+  ],
+  "published": "2026-11-06T12:44:53Z",
+  "pdf": "daily_digest\\2026-11-10\\pdf\\2611.09412_MIRA_Mitigating_Pole_Geometry_Bias_in_Recurrent_Languag.pdf",
+  "txt": "daily_digest\\2026-11-10\\_txt\\2611.09412.txt"
+ },
+ {
+  "id": "2611.09176",
+  "title": "TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting",
+  "authors": [
+   "Chiang Qin Zhi",
+   "Ranjan Satapathy",
+   "Erik Cambria",
+   "Joyjit Chattoraj"
+  ],
+  "published": "2026-11-06T08:56:09Z",
+  "pdf": "daily_digest\\2026-11-10\\pdf\\2611.09176_TailDART_Compute-Efficient_Foundation_Models_for_Financ.pdf",
+  "txt": "daily_digest\\2026-11-10\\_txt\\2611.09176.txt"
+ }
+]

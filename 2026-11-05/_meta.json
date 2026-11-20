@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2611.04565",
+  "title": "Curriculum unlearning in humans and neural networks",
+  "authors": [
+   "Jirko Rubruck",
+   "Alice Zhang",
+   "Andrew Saxe",
+   "Christopher Summerfield"
+  ],
+  "published": "2026-11-03T09:27:50Z",
+  "pdf": "daily_digest\\2026-11-05\\pdf\\2611.04565_Curriculum_unlearning_in_humans_and_neural_networks.pdf",
+  "txt": "daily_digest\\2026-11-05\\_txt\\2611.04565.txt"
+ },
+ {
+  "id": "2611.05120",
+  "title": "Towards an Optimal Control Foundation of Early Exits - Turnpikes and ResNets",
+  "authors": [
+   "Jens Püttschneider",
+   "Simon Heilig",
+   "Asja Fischer",
+   "Timm Faulwasser"
+  ],
+  "published": "2026-11-03T16:08:15Z",
+  "pdf": "daily_digest\\2026-11-05\\pdf\\2611.05120_Towards_an_Optimal_Control_Foundation_of_Early_Exits_-.pdf",
+  "txt": "daily_digest\\2026-11-05\\_txt\\2611.05120.txt"
+ },
+ {
+  "id": "2611.04825",
+  "title": "UniFlow: Unified Multi-Scale Flow Matching for Time Series Generation",
+  "authors": [
+   "Shibo Feng",
+   "Wei Li",
+   "Min Wu",
+   "Chunyan Miao",
+   "Peilin Zhao"
+  ],
+  "published": "2026-11-03T12:53:17Z",
+  "pdf": "daily_digest\\2026-11-05\\pdf\\2611.04825_UniFlow_Unified_Multi-Scale_Flow_Matching_for_Time_Seri.pdf",
+  "txt": "daily_digest\\2026-11-05\\_txt\\2611.04825.txt"
+ }
+]

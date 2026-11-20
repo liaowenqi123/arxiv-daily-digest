@@ -1,0 +1,45 @@
+[
+ {
+  "id": "2611.16527",
+  "title": "AI has its own style in mathematical proving",
+  "authors": [
+   "Xiaokai Li",
+   "Ziyu Zhou",
+   "Qibin Cheng",
+   "Yangcheng Wu",
+   "An Zeng",
+   "Ying Fan"
+  ],
+  "published": "2026-11-12T09:27:02Z",
+  "pdf": "daily_digest\\2026-11-15\\pdf\\2611.16527_AI_has_its_own_style_in_mathematical_proving.pdf",
+  "txt": "daily_digest\\2026-11-15\\_txt\\2611.16527.txt"
+ },
+ {
+  "id": "2611.16935",
+  "title": "Universal Infectious Disease Forecasting with Mantis 2",
+  "authors": [
+   "Carson Dudley",
+   "Reiden Magdaleno",
+   "Yutong Bi",
+   "Anthony Valencia",
+   "Xiaofeng Liu",
+   "Marisa Eisenberg"
+  ],
+  "published": "2026-11-12T15:20:49Z",
+  "pdf": "daily_digest\\2026-11-15\\pdf\\2611.16935_Universal_Infectious_Disease_Forecasting_with_Mantis_2.pdf",
+  "txt": "daily_digest\\2026-11-15\\_txt\\2611.16935.txt"
+ },
+ {
+  "id": "2611.16345",
+  "title": "DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models",
+  "authors": [
+   "Yi-Hsin Hung",
+   "Fangfu Liu",
+   "Shao-Yuan Lo",
+   "Chu-Song Chen"
+  ],
+  "published": "2026-11-12T06:04:08Z",
+  "pdf": "daily_digest\\2026-11-15\\pdf\\2611.16345_DRAMA_Dissecting_Attention_Redundancy_for_Accelerating.pdf",
+  "txt": "daily_digest\\2026-11-15\\_txt\\2611.16345.txt"
+ }
+]

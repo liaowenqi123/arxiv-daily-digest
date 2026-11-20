@@ -1,0 +1,36 @@
+[
+ {
+  "id": "2610.37523",
+  "title": "The Structure Gap: When More Data Cannot Replace Structured Reasoning",
+  "authors": [
+   "Kheer Sagar Patel",
+   "Mojtaba Soltanalian"
+  ],
+  "published": "2026-10-27T16:45:22Z",
+  "pdf": "daily_digest\\2026-10-29\\pdf\\2610.37523_The_Structure_Gap_When_More_Data_Cannot_Replace_Structu.pdf",
+  "txt": "daily_digest\\2026-10-29\\_txt\\2610.37523.txt"
+ },
+ {
+  "id": "2610.37588",
+  "title": "Understanding the limits of latent world models",
+  "authors": [
+   "Rodrigo Gonzalez Laiz",
+   "Steffen Schneider"
+  ],
+  "published": "2026-10-27T17:25:50Z",
+  "pdf": "daily_digest\\2026-10-29\\pdf\\2610.37588_Understanding_the_limits_of_latent_world_models.pdf",
+  "txt": "daily_digest\\2026-10-29\\_txt\\2610.37588.txt"
+ },
+ {
+  "id": "2610.37647",
+  "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+  "authors": [
+   "Athanasios Glentis",
+   "Dawei Li",
+   "Mingyi Hong"
+  ],
+  "published": "2026-10-27T17:56:40Z",
+  "pdf": "daily_digest\\2026-10-29\\pdf\\2610.37647_MuonGS_Pretraining_LLMs_with_Relaxed_Weight-Norm_Contro.pdf",
+  "txt": "daily_digest\\2026-10-29\\_txt\\2610.37647.txt"
+ }
+]
